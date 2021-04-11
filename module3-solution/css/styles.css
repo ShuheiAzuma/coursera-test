@@ -1,0 +1,79 @@
+body {
+	font-size: 16px;
+	color: #000;
+	font-family: 'Oxgen', sans-serif;
+}
+
+/* header*/
+#header-nav {
+	background-color: #353745;
+	border-radius: 0;
+	border: 0;
+}
+.navbar-heaser{
+	border: 0px;
+}
+.navbar-brand {
+	padding-top: 15px;
+	padding-bottom: 40px;
+	font-size: 20px;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+.navbar-brand h1 {
+	color: #fff;
+	font-size: 1.5em;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -35px;
+}
+
+#nav-list {
+	margin-top: 10px;
+ 	text-align: center;
+ 	font-size: 20px;
+}
+#nav-list a:hover {
+ 	background: #0099ff;
+}
+#nav-list span {
+ 	font-size: 1.2em;
+ 	color: #fff;
+}
+
+/* end header */
+
+/* main contents */
+#our-menu {
+	font-weight: bold;
+}
+#menu-tile {
+	height: 700px;
+	background-color: #e2e2e2;
+	opacity: 1;
+	color: #000;
+}
+
+.menu-item-title {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-weight: bold;
+}
+
+.menu-item-details {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#backtotop {
+	position: absolute;
+	bottom: 5px;
+	right: 30px;
+	font-size: 1.2em;
+	color: #000000;
+}
+
+/* end main contents */
